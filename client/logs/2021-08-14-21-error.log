@@ -1,0 +1,3 @@
+time="2021-08-14T21:00:36-04:00" level=error msg="message is unparsable" error="parse \"articles/1\": invalid URI for request"
+time="2021-08-14T21:02:06-04:00" level=error msg="message is unparsable" error="parse \"articles/1\": invalid URI for request"
+time="2021-08-14T21:10:32-04:00" level=error msg="failed execute request to consumer" error="Get \"https://eni06l5ya9blbrd.m.pipedream.net:8080/\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"
